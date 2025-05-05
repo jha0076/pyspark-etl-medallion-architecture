@@ -145,13 +145,6 @@ Place the following files inside the `data/raw/` folder:
 Contributions are welcome! Feel free to fork the repo and submit pull requests for improvements or bug fixes.
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🙋‍♂️ Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)
